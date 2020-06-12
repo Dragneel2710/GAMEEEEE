@@ -45,7 +45,7 @@ function setup() {
 }
 
 function preload(){
-  spaceI = loadImage("spaceS0.png");
+  spaceI = loadImage("spaceSS.png");
 
   ASTR = loadImage("sprite_0.png");
 

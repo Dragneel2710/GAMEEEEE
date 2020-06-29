@@ -17,7 +17,7 @@ var bullet,bulletI;
 var button,buttonI;
 
 function setup() {
-  createCanvas(500,500);
+  createCanvas(windowWidth,windowHeight);
 
   spaceS = createSprite(250, 250, 50, 50);
   spaceS.addImage(spaceI);
